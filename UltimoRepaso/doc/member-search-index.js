@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Clases","c":"CuentasMatematicas","l":"CuentasMatematicas()","u":"%3Cinit%3E()"},{"p":"Clases","c":"CuentasMatematicas","l":"restaNumerosEnteros(int, int)","u":"restaNumerosEnteros(int,int)"},{"p":"Clases","c":"CuentasMatematicas","l":"sumaNumerosEnteros(int, int)","u":"sumaNumerosEnteros(int,int)"}];updateSearchResults();
